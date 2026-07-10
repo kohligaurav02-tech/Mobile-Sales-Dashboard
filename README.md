@@ -24,3 +24,22 @@ The Mobile Sales Dashboard is an interactive Power BI project designed to analyz
 ### Page 3 - Same Period Last Year Analysis
 
 ![YoY Analysis](Images/yoy-analysis.png)
+
+## ✨ Features
+
+- Interactive Power BI Dashboard
+- Dynamic Filters & Slicers
+- Sales Analysis by City
+- Brand-wise Performance Analysis
+- Payment Method Analysis
+- Customer Rating Analysis
+- Month-to-Date (MTD) Analysis
+- Year-over-Year (YoY) Comparison
+- Interactive Maps & Charts
+
+## 📊 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales
+- 📦 Total Quantity Sold
+- 🛒 Total Transactions
+- 💵 Average Price
